@@ -2,7 +2,7 @@
 
 ## General
 - [X] 1. [Git Basic](#1-git-basic)
-- [ ] 2. Linux CLI and Networking
+- [ ] 2. [Linux CLI and Networking] (#2-Linux-CLI,-and-HTTP)
 - [ ] 3. VCS, GitHub and Collaborating
 
 ## Front-End Basic
@@ -45,3 +45,32 @@ LearnGitBranch is a good way to practise basics that we learned in coursera.
 
   ![learnGitBranch 2](gitbasic/learningbraching2.png)
 </details>
+
+### 2. Linux CLI, and HTTP
+### _Linux Survival_
+
+Thats was very interesting. A lot of new comands. 
+<details><summary>Linux survival Quiz 1</summary> 
+
+  ![Linux survival Quiz 1](task_linux_cli/linux1.png)
+</details>
+<details><summary>Linux survival Quiz 2</summary> 
+
+  ![Linux survival Quiz 2](task_linux_cli/linux2.png)
+</details>
+<details><summary>Linux survival Quiz 3</summary> 
+
+  ![Linux survival Quiz 3](task_linux_cli/linux3.png)
+</details>
+<details><summary>Linux survival Quiz 4</summary> 
+
+  ![Linux survival Quiz 4](task_linux_cli/linux4.png)
+</details>
+
+### _HTTP 1_
+There are a lot of information. But i hope i will understand it on practise.
+The information about status codes was interesting.
+I think i will use structure of messages in future.
+
+### _HTTP 2_
+I knew basics of comunication and authorization between users and servers, but they are described more detail in this article.
