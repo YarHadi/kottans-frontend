@@ -27,11 +27,11 @@
 Course in coursera is very interesting. The teacher is excellent. I hope it will help me in a future.
 <details><summary>Coursera git 1 week</summary> 
 
-  ![Coursera git 1 week](imgs\git basic\coursera1.png)
+  ![Coursera git 1 week](imgs/git basic/coursera1.png)
 </details>
 <details><summary>Coursera git 2 week</summary> 
 
-  ![Coursera git 2 week](imgs\git basic\coursera2.png)
+  ![Coursera git 2 week](imgs/git basic/coursera2.png)
 </details>
 
 ### _learnGitBranch_
