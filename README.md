@@ -21,7 +21,7 @@
 - [ ] 6. Website Perfomance Optimization
 - [ ] 7. Friends APP
 
-### 1. Git Basic
+## 1. Git Basic
 ###  _Coursera course_
 
 Course in coursera is very interesting. The teacher is excellent. I hope it will help me in a future.
@@ -46,7 +46,7 @@ LearnGitBranch is a good way to practise basics that we learned in coursera.
   ![learnGitBranch 2](gitbasic/learningbraching2.png)
 </details>
 
-### 2. Linux CLI, and HTTP
+## 2. Linux CLI, and HTTP
 ### _Linux Survival_
 
 Thats was very interesting. A lot of new comands.
@@ -75,7 +75,7 @@ I think i will use structure of messages in future.
 ### _HTTP 2_
 I knew basics of comunication and authorization between users and servers, but they are described more detail in this article.
 
-### 3. Git Collaboration
+## 3. Git Collaboration
 HEHE. Almost all that was at this course i made in first step.
 But info about Collaboration was new and interesting.))
 
