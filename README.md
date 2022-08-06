@@ -2,7 +2,7 @@
 
 ## General
 - [X] 1. [Git Basic](#1-git-basic)
-- [ ] 2. [Linux CLI and Networking] (#2-Linux-CLI,-and-HTTP)
+- [X] 2. [Linux CLI, and HTTP](#2-linux-cli-and-http)
 - [ ] 3. VCS, GitHub and Collaborating
 
 ## Front-End Basic
