@@ -6,7 +6,7 @@
 - [X] 3. [VCS, GitHub and Collaborating](#3-git-collaboration)
 
 ## Front-End Basic
-- [ ] 1. Intro to HTML & CSS
+- [X] 1. [Intro to HTML & CSS](#4-intro-to-html-and-css)
 - [ ] 2. Responsive Web Design
 - [ ] 3. HTML & CSS Practice
 - [ ] 4. JavaScipt Basics
@@ -95,4 +95,33 @@ But info about Collaboration was new and interesting.))
 <details><summary>learnGitBranch 2</summary>
 
   ![learnGitBranch 2](task_git_collaboration/learningbraching2.png)
+</details>
+
+## 4. Intro to HTML and CSS
+### _Coursera_
+Coursera lessons just refreshed my knowledge, because i studied this material before.
+
+<details><summary>Coursera week 1</summary>
+
+  ![Coursera week 1](task_html_css_intro/coursera1.png)
+</details>
+<details><summary>Coursera week 2</summary>
+
+  ![Coursera week 2](task_html_css_intro/coursera2.png)
+</details>
+
+### _Learn HTML_
+OMG. That's amazing way to learn new material. I refreshed knowledge about HTML and learned new features(tables and forms).
+
+<details><summary>Codecademy HTML</summary>
+  ![Codecademy HTML](task_html_css_intro/codecademyhtml.png)
+</details>
+
+### _Learn CSS_
+Info about selectors was useful. I'll use it in a future.
+Info about overflow was new for me.
+There are a lot of info about positioning of elements. That's a little hard for me, but i'm doing my best. I'm sure that i will understand it. Need more practice. Keep going to the status of the best developer.))
+
+<details><summary>Codecademy CSS</summary>
+  ![Codecademy CSS](task_html_css_intro/codecademy2.png)
 </details>
