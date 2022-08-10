@@ -114,6 +114,7 @@ Coursera lessons just refreshed my knowledge, because i studied this material be
 OMG. That's amazing way to learn new material. I refreshed knowledge about HTML and learned new features(tables and forms).
 
 <details><summary>Codecademy HTML</summary>
+
   ![Codecademy HTML](task_html_css_intro/codecademyhtml.png)
 </details>
 
@@ -123,5 +124,6 @@ Info about overflow was new for me.
 There are a lot of info about positioning of elements. That's a little hard for me, but i'm doing my best. I'm sure that i will understand it. Need more practice. Keep going to the status of the best developer.))
 
 <details><summary>Codecademy CSS</summary>
+
   ![Codecademy CSS](task_html_css_intro/codecademy2.png)
 </details>
