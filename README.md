@@ -125,5 +125,5 @@ There are a lot of info about positioning of elements. That's a little hard for 
 
 <details><summary>Codecademy CSS</summary>
 
-  ![Codecademy CSS](task_html_css_intro/codecademy2.png)
+  ![Codecademy CSS](task_html_css_intro/codecademycss.png)
 </details>
