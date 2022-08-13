@@ -7,7 +7,7 @@
 
 ## Front-End Basic
 - [X] 1. [Intro to HTML & CSS](#4-intro-to-html-and-css)
-- [ ] 2. Responsive Web Design
+- [x] 2. [Responsive Web Design](#5-responsive-web-design)
 - [ ] 3. HTML & CSS Practice
 - [ ] 4. JavaScipt Basics
 - [ ] 5. Document Object Model
@@ -126,4 +126,53 @@ There are a lot of info about positioning of elements. That's a little hard for 
 <details><summary>Codecademy CSS</summary>
 
   ![Codecademy CSS](task_html_css_intro/codecademycss.png)
+</details>
+
+## 5. Responsive Web Design
+### _Responsive web design basics_
+
+Learned a lot of new info about sizing content. Not all is clear. I hope i'll understand it later on practice.
+
+### _FLEXBOX_
+
+Learned new commands:
+⋅⋅*display:flex
+⋅⋅*display: inline-flex
+⋅⋅*justufy-content
+⋅⋅*align-items
+⋅⋅*flex-wrap
+⋅⋅*align-self
+⋅⋅*order
+⋅⋅*flex-basis
+⋅⋅*flex-grow
+⋅⋅*flex-shrink
+
+### _Flexbox Froggy_
+
+Fixed new knowledge that i learned in a previous part. Its the best way for understanding new material for me.
+
+<details><summary>FlexboxFroggy</summary>
+
+  ![FlexboxFroggy](task_responsive_web_design/froggy2.png)    
+</details>
+
+### _CSS Grid Layout_
+
+Learned new commands:
+⋅⋅*grid-template-rows и grid-template-columns
+⋅⋅*fr
+⋅⋅*minmax
+⋅⋅*fit-content
+⋅⋅*grid-template-areas
+⋅⋅*grid-template
+⋅⋅*grid-auto-rows, grid-auto-columns
+⋅⋅*grid-auto-flow
+
+### _Grid Garden_
+
+Fixed new knowledge that i learned in a previous part.
+
+<details><summary>GridGarden</summary>
+
+  ![GridGarden](task_responsive_web_design/gridgarden2.png)
 </details>
