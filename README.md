@@ -136,16 +136,16 @@ Learned a lot of new info about sizing content. Not all is clear. I hope i'll un
 ### _FLEXBOX_
 
 Learned new commands:
-⋅⋅*display:flex
-⋅⋅*display: inline-flex
-⋅⋅*justufy-content
-⋅⋅*align-items
-⋅⋅*flex-wrap
-⋅⋅*align-self
-⋅⋅*order
-⋅⋅*flex-basis
-⋅⋅*flex-grow
-⋅⋅*flex-shrink
+- display:flex
+- display: inline-flex
+- justufy-content
+- align-items
+- flex-wrap
+- align-self
+- order
+- flex-basis
+- flex-grow
+- flex-shrink
 
 ### _Flexbox Froggy_
 
@@ -159,14 +159,14 @@ Fixed new knowledge that i learned in a previous part. Its the best way for unde
 ### _CSS Grid Layout_
 
 Learned new commands:
-⋅⋅*grid-template-rows и grid-template-columns
-⋅⋅*fr
-⋅⋅*minmax
-⋅⋅*fit-content
-⋅⋅*grid-template-areas
-⋅⋅*grid-template
-⋅⋅*grid-auto-rows, grid-auto-columns
-⋅⋅*grid-auto-flow
+- grid-template-rows и grid-template-columns
+- fr
+- minmax
+- fit-content
+- grid-template-areas
+- grid-template
+- grid-auto-rows, grid-auto-columns
+- grid-auto-flow
 
 ### _Grid Garden_
 
