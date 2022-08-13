@@ -46,6 +46,8 @@ LearnGitBranch is a good way to practise basics that we learned in coursera.
   ![learnGitBranch 2](gitbasic/learningbraching2.png)
 </details>
 
+#### [Go to the top](#general)
+
 ## 2. Linux CLI, and HTTP
 ### _Linux Survival_
 
@@ -75,6 +77,8 @@ I think i will use structure of messages in future.
 ### _HTTP 2_
 I knew basics of comunication and authorization between users and servers, but they are described more detail in this article.
 
+#### [Go to the top](#general)
+
 ## 3. Git Collaboration
 HEHE. Almost all that was at this course i made in first step.
 But info about Collaboration was new and interesting.))
@@ -96,6 +100,8 @@ But info about Collaboration was new and interesting.))
 
   ![learnGitBranch 2](task_git_collaboration/learningbraching2.png)
 </details>
+
+#### [Go to the top](#general)
 
 ## 4. Intro to HTML and CSS
 ### _Coursera_
@@ -127,6 +133,8 @@ There are a lot of info about positioning of elements. That's a little hard for 
 
   ![Codecademy CSS](task_html_css_intro/codecademycss.png)
 </details>
+
+#### [Go to the top](#general)
 
 ## 5. Responsive Web Design
 ### _Responsive web design basics_
@@ -176,3 +184,5 @@ Fixed new knowledge that i learned in a previous part.
 
   ![GridGarden](task_responsive_web_design/gridgarden2.png)
 </details>
+
+#### [Go to the top](#general)
