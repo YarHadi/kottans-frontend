@@ -8,7 +8,7 @@
 ## Front-End Basic
 - [X] 1. [Intro to HTML & CSS](#4-intro-to-html-and-css)
 - [x] 2. [Responsive Web Design](#5-responsive-web-design)
-- [ ] 3. HTML & CSS Practice
+- [x] 3. [HTML & CSS Practice](6-html-&-css-practice)
 - [ ] 4. JavaScipt Basics
 - [ ] 5. Document Object Model
 
@@ -186,3 +186,14 @@ Fixed new knowledge that i learned in a previous part.
 </details>
 
 #### [Go to the top](#general)
+
+## 6. HTML & CSS Practice
+
+Oh shit. That was stressfull. I started doing this work again about 3 times.
+To be honest i looked works of other students, searched info at the internet, looked videos. And ... i did it.
+
+Yes, i know, not all is good. But it's my first step.
+
+Here u can see what i did))
+
+[Yes, here))](https://yarhadi.github.io/hooli-popup/)
