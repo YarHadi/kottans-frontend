@@ -8,7 +8,7 @@
 ## Front-End Basic
 - [X] 1. [Intro to HTML & CSS](#4-intro-to-html-and-css)
 - [x] 2. [Responsive Web Design](#5-responsive-web-design)
-- [x] 3. [HTML & CSS Practice](6-html-&-css-practice)
+- [x] 3. [HTML & CSS Practice](#6-html-&-css-practice)
 - [ ] 4. JavaScipt Basics
 - [ ] 5. Document Object Model
 
