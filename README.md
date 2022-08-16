@@ -9,7 +9,7 @@
 - [X] 1. [Intro to HTML & CSS](#4-intro-to-html-and-css)
 - [x] 2. [Responsive Web Design](#5-responsive-web-design)
 - [ ] 3. HTML & CSS Practice
-- [ ] 4. JavaScipt Basics
+- [X] 4. JavaScipt Basics(#7-js-basics)
 - [ ] 5. Document Object Model
 
 ## Advansed Topics
@@ -184,5 +184,11 @@ Fixed new knowledge that i learned in a previous part.
 
   ![GridGarden](task_responsive_web_design/gridgarden2.png)
 </details>
+
+#### [Go to the top](#general)
+
+## 7. JS Basics
+
+
 
 #### [Go to the top](#general)
