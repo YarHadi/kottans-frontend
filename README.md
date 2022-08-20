@@ -9,7 +9,7 @@
 - [X] 1. [Intro to HTML & CSS](#4-intro-to-html-and-css)
 - [x] 2. [Responsive Web Design](#5-responsive-web-design)
 - [ ] 3. HTML & CSS Practice
-- [X] 4. JavaScipt Basics(#7-js-basics)
+- [X] 4. [JavaScipt Basics](#7-js-basics)
 - [ ] 5. Document Object Model
 
 ## Advansed Topics
