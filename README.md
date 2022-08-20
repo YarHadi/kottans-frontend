@@ -189,6 +189,43 @@ Fixed new knowledge that i learned in a previous part.
 
 ## 7. JS Basics
 
+JS is not hard as i thought (on this level). I learned coding at school and university so i understand basics.
 
+<details><summary>Coursera</summary>
+
+  ![Coursera](task_js_basics/coursera1.png)
+</details>
+
+Ok, practice was hard a little at the end))
+
+<details><summary>Basic JS</summary>
+
+  ![Basic JS](task_js_basics/freeCode_basicJS.png)
+</details>
+
+<details><summary>ES6 Challenges</summary>
+
+  ![ES6 Challenges](task_js_basics/freeCode_ES6.png)
+</details>
+
+<details><summary>Basic Data Structures</summary>
+
+  ![Basic Data Structures](task_js_basics/freeCode_basic_data_structures.png)
+</details>
+
+<details><summary>Basic Algorithm Scripting</summary>
+
+  ![Basic Algorithm Scripting](task_js_basics/freeCode_basic_algorithm_scripting.png)
+</details>
+
+<details><summary>Functional Programming</summary>
+
+  ![Functional Programming](task_js_basics/freeCode_func_programming.png)
+</details>
+
+<details><summary>Algorithm Scripting Challenges</summary>
+
+  ![Algorithm Scripting Challenges](task_js_basics/freeCode_algorithm_scripting_challenges.png)
+</details>
 
 #### [Go to the top](#general)
