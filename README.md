@@ -10,7 +10,7 @@
 - [x] 2. [Responsive Web Design](#5-responsive-web-design)
 - [ ] 3. HTML & CSS Practice
 - [X] 4. [JavaScipt Basics](#7-js-basics)
-- [ ] 5. Document Object Model
+- [X] 5. [Document Object Model](#8-dom)
 
 ## Advansed Topics
 - [ ] 1. Building a Tiny JS World
@@ -226,6 +226,18 @@ Ok, practice was hard a little at the end))
 <details><summary>Algorithm Scripting Challenges</summary>
 
   ![Algorithm Scripting Challenges](task_js_basics/freeCode_algorithm_scripting_challenges.png)
+</details>
+
+#### [Go to the top](#general)
+
+
+## 8. DOM
+
+To be honest, the practice was exhausting. Sometimes confusing. Maybe I was just tired at that moment. It didn't do without hints, but I managed.
+
+<details><summary>Algorithm Scripting Challenges</summary>
+
+  ![Algorithm Scripting Challenges](task_js_dom/freeCode_algorithm_scripting_challenges.png)
 </details>
 
 #### [Go to the top](#general)
