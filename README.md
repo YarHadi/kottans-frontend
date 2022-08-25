@@ -233,6 +233,13 @@ Ok, practice was hard a little at the end))
 
 ## 8. DOM
 
+It was interesting to listen this lecture. But... Lets do practice)))
+
+<details><summary>Coursera</summary>
+
+  ![Coursera](task_js_dom/coursera.png)
+</details>
+
 To be honest, the practice was exhausting. Sometimes confusing. Maybe I was just tired at that moment. It didn't do without hints, but I managed.
 
 <details><summary>Algorithm Scripting Challenges</summary>
