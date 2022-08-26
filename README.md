@@ -194,6 +194,8 @@ To be honest i looked works of other students, searched info at the internet, lo
 
 Yes, i know, not all is good. But it's my first step.
 
+Special thanks to the reviewer.❤️
+
 Here u can see what i did))
 
 [Yes, here))](https://yarhadi.github.io/hooli-popup/)
