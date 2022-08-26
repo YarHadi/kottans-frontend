@@ -189,7 +189,7 @@ Fixed new knowledge that i learned in a previous part.
 
 ## 6. HTML & CSS Practice
 
-Oh shit. That was stressfull. I started doing this work again about 3 times.
+Oh shit. That was stressfull. I started doing this work again a lot of times times. Then fixed bugs more and more.
 To be honest i looked works of other students, searched info at the internet, looked videos. And ... i did it.
 
 Yes, i know, not all is good. But it's my first step.
