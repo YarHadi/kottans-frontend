@@ -13,7 +13,7 @@
 - [ ] 5. Document Object Model
 
 ## Advansed Topics
-- [ ] 1. Building a Tiny JS World
+- [X] 1. [Building a Tiny JS World](#8-building-a-tiny-js-world)
 - [ ] 2. Object oriented JS
 - [ ] 3. OOP exercise
 - [ ] 4. Offline Web Applications
@@ -242,5 +242,11 @@ Ok, practice was hard a little at the end))
 
   ![Algorithm Scripting Challenges](task_js_basics/freeCode_algorithm_scripting_challenges.png)
 </details>
+
+#### [Go to the top](#general)
+
+## 8. Building a Tiny JS World
+
+
 
 #### [Go to the top](#general)
