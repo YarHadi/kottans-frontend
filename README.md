@@ -8,7 +8,7 @@
 ## Front-End Basic
 - [X] 1. [Intro to HTML & CSS](#4-intro-to-html-and-css)
 - [x] 2. [Responsive Web Design](#5-responsive-web-design)
-- [ ] 3. HTML & CSS Practice
+- [x] 3. [HTML & CSS Practice](#6-html-and-css-practice)
 - [X] 4. [JavaScipt Basics](#7-js-basics)
 - [ ] 5. Document Object Model
 
@@ -184,6 +184,21 @@ Fixed new knowledge that i learned in a previous part.
 
   ![GridGarden](task_responsive_web_design/gridgarden2.png)
 </details>
+
+#### [Go to the top](#general)
+
+## 6. HTML and CSS Practice
+
+Oh shit. That was stressfull. I started doing this work again a lot of times times. Then fixed bugs more and more.
+To be honest i looked works of other students, searched info at the internet, looked videos. And ... i did it.
+
+Yes, i know, not all is good. But it's my first step.
+
+Special thanks to the reviewer.❤️
+
+Here u can see what i did))
+
+[Yes, here))](https://yarhadi.github.io/hooli-popup/)
 
 #### [Go to the top](#general)
 
