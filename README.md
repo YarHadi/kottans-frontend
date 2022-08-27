@@ -249,6 +249,14 @@ Ok, practice was hard a little at the end))
 
 ## 10. Object Oriented JS
 
+### _CodeWars_
 
+
+From that moment on, it is my favorite pastime. I completed the task, but I will continue to work here. This is an awesome site.
+
+<details><summary>CodeWars</summary>
+
+  ![CodeWars](task_js_oop/codewars.png)
+</details>
 
 #### [Go to the top](#general)
