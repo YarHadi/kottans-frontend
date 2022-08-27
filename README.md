@@ -247,6 +247,12 @@ Ok, practice was hard a little at the end))
 
 ## 8. Building a Tiny JS World
 
+A little task to refreshing knowledge about js.
 
+Here u can se what i did.
+
+[Demo](https://yarhadi.github.io/a-tiny-JS-world/)
+
+[Code base](https://github.com/YarHadi/a-tiny-JS-world)
 
 #### [Go to the top](#general)
