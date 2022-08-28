@@ -255,6 +255,10 @@ Learned about JS classes.
 
 ### _OOP part 2_
 
+Learned about JS proto.
+
+### _Frogger_
+
 
 
 ### _CodeWars_
