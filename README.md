@@ -249,8 +249,15 @@ Ok, practice was hard a little at the end))
 
 ## 10. Object Oriented JS
 
-### _CodeWars_
+### _OOP part 1_
 
+Learned about JS classes.
+
+### _OOP part 2_
+
+
+
+### _CodeWars_
 
 From that moment on, it is my favorite pastime. I completed the task, but I will continue to work here. This is an awesome site.
 
