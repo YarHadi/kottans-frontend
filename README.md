@@ -249,6 +249,8 @@ Ok, practice was hard a little at the end))
 
 A little task to refreshing knowledge about js.
 
+To be honest that is wired task)))
+
 Here u can se what i did.
 
 [Demo](https://yarhadi.github.io/a-tiny-JS-world/)
