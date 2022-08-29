@@ -259,7 +259,9 @@ Learned about JS proto.
 
 ### _Frogger_
 
+[Pages](https://yarhadi.github.io/frontend-nanodegree-arcade-game/)
 
+[CodeBase](https://github.com/YarHadi/frontend-nanodegree-arcade-game)
 
 ### _CodeWars_
 
