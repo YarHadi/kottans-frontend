@@ -17,7 +17,7 @@
 - [ ] 2. Object oriented JS
 - [ ] 3. OOP exercise
 - [ ] 4. Offline Web Applications
-- [ ] 5. Memory pair game
+- [X] 5. [Memory pair game](#13-memory-pair-game)
 - [ ] 6. Website Perfomance Optimization
 - [ ] 7. Friends APP
 
@@ -244,5 +244,13 @@ Ok, practice was hard a little at the end))
 
   ![Algorithm Scripting Challenges](task_js_basics/freeCode_algorithm_scripting_challenges.png)
 </details>
+
+#### [Go to the top](#general)
+
+## 13. Memory pair game
+
+[Pages]()
+
+[Code base](https://github.com/YarHadi/Memory-Pair-Game)
 
 #### [Go to the top](#general)
