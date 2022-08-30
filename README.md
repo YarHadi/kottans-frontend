@@ -249,7 +249,7 @@ Ok, practice was hard a little at the end))
 
 ## 13. Memory pair game
 
-[Pages]()
+[Pages](https://yarhadi.github.io/Memory-Pair-Game/)
 
 [Code base](https://github.com/YarHadi/Memory-Pair-Game)
 
