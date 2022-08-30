@@ -240,11 +240,18 @@ It was interesting to listen this lecture. But... Lets do practice)))
   ![Coursera](task_js_dom/coursera.png)
 </details>
 
+
+
 To be honest, the practice was exhausting. Sometimes confusing. Maybe I was just tired at that moment. It didn't do without hints, but I managed.
 
 <details><summary>Algorithm Scripting Challenges</summary>
 
   ![Algorithm Scripting Challenges](task_js_dom/freeCode_algorithm_scripting_challenges.png)
 </details>
+
+Here u can see what i did on practice.
+
+[Pages](https://yarhadi.github.io/dom/)
+[CodeBase](https://github.com/YarHadi/dom)
 
 #### [Go to the top](#general)
