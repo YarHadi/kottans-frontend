@@ -10,7 +10,7 @@
 - [x] 2. [Responsive Web Design](#5-responsive-web-design)
 - [x] 3. [HTML & CSS Practice](#6-html-and-css-practice)
 - [X] 4. [JavaScipt Basics](#7-js-basics)
-- [ ] 5. Document Object Model
+- [X] 5. [Document Object Model](#8-dom)
 
 ## Advansed Topics
 - [ ] 1. Building a Tiny JS World
@@ -244,5 +244,36 @@ Ok, practice was hard a little at the end))
 
   ![Algorithm Scripting Challenges](task_js_basics/freeCode_algorithm_scripting_challenges.png)
 </details>
+
+#### [Go to the top](#general)
+
+
+## 8. DOM
+
+### _Coursera_
+
+It was interesting to listen this lecture. But... Lets do practice)))
+
+<details><summary>Coursera</summary>
+
+  ![Coursera](task_js_dom/coursera.png)
+</details>
+
+### _freeCodeCamp_
+
+To be honest, the practice was exhausting. Sometimes confusing. Maybe I was just tired at that moment. It didn't do without hints, but I managed.
+
+<details><summary>Algorithm Scripting Challenges</summary>
+
+  ![Algorithm Scripting Challenges](task_js_dom/freeCode_algorithm_scripting_challenges.png)
+</details>
+
+### _Practice_
+
+Here u can see what i did on practice.
+
+[Pages](https://yarhadi.github.io/dom/)
+
+[CodeBase](https://github.com/YarHadi/dom)
 
 #### [Go to the top](#general)
