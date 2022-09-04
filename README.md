@@ -251,7 +251,7 @@ To be honest, the practice was exhausting. Sometimes confusing. Maybe I was just
   ![Algorithm Scripting Challenges](task_js_dom/freeCode_algorithm_scripting_challenges.png)
 </details>
 
-### _freeCodeCamp_
+### _Practice_
 
 Here u can see what i did on practice.
 
