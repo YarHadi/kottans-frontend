@@ -233,6 +233,8 @@ Ok, practice was hard a little at the end))
 
 ## 8. DOM
 
+### _Coursera_
+
 It was interesting to listen this lecture. But... Lets do practice)))
 
 <details><summary>Coursera</summary>
@@ -240,7 +242,7 @@ It was interesting to listen this lecture. But... Lets do practice)))
   ![Coursera](task_js_dom/coursera.png)
 </details>
 
-
+### _freeCodeCamp_
 
 To be honest, the practice was exhausting. Sometimes confusing. Maybe I was just tired at that moment. It didn't do without hints, but I managed.
 
@@ -249,9 +251,12 @@ To be honest, the practice was exhausting. Sometimes confusing. Maybe I was just
   ![Algorithm Scripting Challenges](task_js_dom/freeCode_algorithm_scripting_challenges.png)
 </details>
 
+### _freeCodeCamp_
+
 Here u can see what i did on practice.
 
 [Pages](https://yarhadi.github.io/dom/)
+
 [CodeBase](https://github.com/YarHadi/dom)
 
 #### [Go to the top](#general)
