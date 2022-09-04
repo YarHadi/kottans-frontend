@@ -249,6 +249,12 @@ Ok, practice was hard a little at the end))
 
 ## 13. Memory pair game
 
+Thats was very interesting to work on this game.
+
+Many features still need to be implemented. But that's in the future.
+
+But for now you can see what I got.
+
 [Pages](https://yarhadi.github.io/Memory-Pair-Game/)
 
 [Code base](https://github.com/YarHadi/Memory-Pair-Game)
