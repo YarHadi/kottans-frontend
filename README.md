@@ -13,7 +13,7 @@
 - [X] 5. [Document Object Model](#8-dom)
 
 ## Advansed Topics
-- [X] 1. [Building a Tiny JS World](#8-building-a-tiny-js-world)
+- [X] 1. [Building a Tiny JS World](#9-building-a-tiny-js-world)
 - [ ] 2. Object oriented JS
 - [ ] 3. OOP exercise
 - [ ] 4. Offline Web Applications
