@@ -15,7 +15,7 @@
 ## Advansed Topics
 - [X] 1. [Building a Tiny JS World](#9-building-a-tiny-js-world)
 - [ ] 2. Object oriented JS
-- [ ] 3. OOP exercise
+- [X] 3. [OOP exercise](#11-oop-exercise)
 - [ ] 4. Offline Web Applications
 - [ ] 5. Memory pair game
 - [ ] 6. Website Perfomance Optimization
@@ -286,5 +286,15 @@ Here u can se what i did.
 [Demo](https://yarhadi.github.io/a-tiny-JS-world/)
 
 [Code base](https://github.com/YarHadi/a-tiny-JS-world)
+
+#### [Go to the top](#general)
+
+## 11. OOP exercise
+
+Fixed knowledge about classes on practice.
+
+[Pages](https://yarhadi.github.io/a-tiny-JS-world/)
+
+[CodeBase](https://github.com/YarHadi/a-tiny-JS-world/tree/tinyv2)
 
 #### [Go to the top](#general)
