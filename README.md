@@ -13,7 +13,7 @@
 - [X] 5. [Document Object Model](#8-dom)
 
 ## Advansed Topics
-- [ ] 1. Building a Tiny JS World
+- [X] 1. [Building a Tiny JS World](#8-building-a-tiny-js-world)
 - [ ] 2. Object oriented JS
 - [ ] 3. OOP exercise
 - [ ] 4. Offline Web Applications
@@ -247,7 +247,6 @@ Ok, practice was hard a little at the end))
 
 #### [Go to the top](#general)
 
-
 ## 8. DOM
 
 ### _Coursera_
@@ -275,5 +274,17 @@ Here u can see what i did on practice.
 [Pages](https://yarhadi.github.io/dom/)
 
 [CodeBase](https://github.com/YarHadi/dom)
+
+## 9. Building a Tiny JS World
+
+A little task to refreshing knowledge about js.
+
+To be honest that is wired task)))
+
+Here u can se what i did.
+
+[Demo](https://yarhadi.github.io/a-tiny-JS-world/)
+
+[Code base](https://github.com/YarHadi/a-tiny-JS-world)
 
 #### [Go to the top](#general)
